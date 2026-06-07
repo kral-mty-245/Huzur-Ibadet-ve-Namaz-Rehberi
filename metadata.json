@@ -1,0 +1,10 @@
+{
+  "name": "İbadet ve Namaz Hatırlatıcı",
+  "description": "Namaz vakitleri, hicri takvim, dini gunler, zikirmatik ve gunluk ibadet cetelesi uygulamasi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
